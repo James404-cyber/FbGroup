@@ -17,6 +17,6 @@ def banner():
 {g}┗━━┻┛╋┗┻┛┗┛┗┻━━━┻━━━┛{r} v0.2
 {y}╔═════════════════════════════════════════╗
 {y}║{y}*{g} Author{w}  :{g} JAMES404            {b}                    
-{y}║{y}*{g} WhatsApp{w}:{r} +96598064347            {b}        
-{y}║{y}*{g} Github{w}  :{b} \x1b[4mgithub.com/James404-cyber\x1b[0m{b}    
+{y}║{y}*{g} WhatsApp{w}:{g} +96598064347            {b}        
+{y}║{y}*{g} Github{w}  :{g} \x1b[4mgithub.com/James404-cyber\x1b[0m{b}    
 {y}╚═════════════════════════════════════════╝ ''')
